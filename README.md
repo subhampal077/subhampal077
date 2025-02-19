@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, React, and all things Frontend!**
 
-- 📫 How to reach me **subhampal077@gmail.com**
+- 📫 How to reach me Email: **subhampal077@gmail.com**
 
 - 📄 Know about my experiences, here is my Resume [a](a)
 
