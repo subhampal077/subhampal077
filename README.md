@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subham Pal</h1>
 <h3 align="center">A self-taught, self-motivated frontend developer from India</h3>
 
-<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJnZ291czNyNWU4Z2dsNmF3dmtqenowaWs1aDd5YWVvd3czbW9lZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding-gif" />
+<img align="right" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJnZ291czNyNWU4Z2dsNmF3dmtqenowaWs1aDd5YWVvd3czbW9lZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding-gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhampal077&label=Profile%20views&color=0e75b6&style=flat" alt="subhampal077" /> </p>
 
