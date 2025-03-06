@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **JavaScript, React, and all things Frontend!**
 
-- 📫 How to reach me **Email:** **subhampal077@gmail.com**
+- 📫 How to reach me **Email :** **subhampal077@gmail.com**
 
-- 👨‍💻 All of my projects are available at my **Portfolio** [a](https://subham077-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at my **Portfolio :** [Subham-Portfolio](https://subham077-portfolio.netlify.app/)
 
-- 📄 Know about my experiences, here is my **Resume** [a](https://drive.google.com/file/d/1suqTjZX8A1tJqeYZ7zYPtgJG_j2cr3Nb/view?usp=sharing)
+- 📄 Know about my experiences, here is my **Resume :** [Subham-Resume](https://drive.google.com/file/d/1suqTjZX8A1tJqeYZ7zYPtgJG_j2cr3Nb/view?usp=sharing)
 
 - ⚡ Fun fact that **Console.log() is my best debugging tool (don’t judge me).😆**
 
