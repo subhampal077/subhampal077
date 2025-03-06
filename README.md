@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently enhancing my **Frontend development expertise by working on hands-on projects, mastering modern technologies, and staying updated with industry trends.**
 
-- 👨‍💻 All of my projects are available at my **portfolio** [a](a)
-
 - 💬 Ask me about **JavaScript, React, and all things Frontend!**
 
 - 📫 How to reach me **Email:** **subhampal077@gmail.com**
 
-- 📄 Know about my experiences, here is my **Resume** [a](a)
+- 👨‍💻 All of my projects are available at my **Portfolio** [a](https://subham077-portfolio.netlify.app/)
+
+- 📄 Know about my experiences, here is my **Resume** [a](https://drive.google.com/file/d/1suqTjZX8A1tJqeYZ7zYPtgJG_j2cr3Nb/view?usp=sharing)
 
 - ⚡ Fun fact that **Console.log() is my best debugging tool (don’t judge me).😆**
 
